@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Contact Form Website",
+    "description": "Contact form that utilizes JavaScript for the form validation.",
+    "url": "https://github.com/dlittl02/cs601_hw1/tree/main/CS601_HW1",
+    "type": "GitHub"
+  },
+  {
+    "title": "Country Management App",
+    "description": "A system that utilizes TypeScript to display information about various types of countries.",
+    "url": "https://github.com/dlittl02/cs601_hw4",
+    "type": "GitHub"
+  },
+  {
+    "title": "Professional Profile",
+    "description": "A professional profile that exercises CSS Flexbox and Grid to display projects completed in my front end development class/",
+    "url": "https://github.com/dlittl02/cs601_hw3",
+    "type": "GitHub"
+  },
+  {
+    "title": "Drag and Drop Game",
+    "description": "An online game that allows a user to drag and drop colors and numbers into a category. The categorical items are fetched from JSON files.",
+    "url": "https://github.com/dlittl02/cs601_hw2/tree/main/.idea/json-server",
+    "type": "GitHub"
+  },
+  {
+    "title": "Grocery Store React App",
+    "description": "A React app that is a grocery store inventory management system.",
+    "url": "https://github.com/dlittl02/cs601_hw6",
+    "type": "GitHub"
+  }
+]
+
