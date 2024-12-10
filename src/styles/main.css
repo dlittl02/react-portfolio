@@ -286,10 +286,13 @@ footer p {
 }
 
 .resume-embed {
-    margin: 2rem 0;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    overflow: hidden;
+    width: 100%;
+    max-width: 800px; /* Constrain width for larger screens */
+    height: 600px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    display: block;
+    margin: 20px auto;
 }
 
 /* Button Styling */

@@ -29,8 +29,8 @@ const About: React.FC = () => {
             <img
                 src="/assets/images/about_me.jpg" 
                 alt="About me logo"
-                height="150"
-                width="500"
+                height="100"
+                width="300"
               />
             <p>
               I’m Deasia Little, a Systems Integration and Test Engineer with a passion for Web Development and Test Automation.
