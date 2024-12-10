@@ -2,7 +2,7 @@
 # **Deasia Little - Portfolio Website**
 
 This is a responsive, professional portfolio website showcasing my skills, experience, and projects. The website is built using modern web technologies, starting with HTML, CSS, and JavaScript, and later transitioned to React with TypeScript for modularity and scalability.
-
+The website is deployed at https://extraordinary-speculoos-41940a.netlify.app
 ---
 
 ## **About the Project**
