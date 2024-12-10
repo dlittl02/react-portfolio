@@ -5,7 +5,7 @@ import "../styles/main.css";
 const Home: React.FC = () => {
   return (
     <>
-      {/* Header Section */}
+      {/* Home Page Header Section */}
       <header>
         <nav>
           <ul className="nav-links">
