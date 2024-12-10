@@ -20,7 +20,7 @@ const About: React.FC = () => {
         </nav>
       </header>
 
-      {/* Main Content */}
+      {/* Main Content Section*/}
       <main>
         {/* Hero Section */}
         <section className="hero">
