@@ -1,46 +1,96 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# **Deasia Little - Portfolio Website**
 
-## Available Scripts
+This is a responsive, professional portfolio website showcasing my skills, experience, and projects. The website is built using modern web technologies, starting with HTML, CSS, and JavaScript, and later transitioned to React with TypeScript for modularity and scalability.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## **About the Project**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The portfolio website is designed to highlight my professional experience, skills, and personal interests. It serves as an interactive resume and gallery, offering a clean and modern user interface. The project demonstrates my ability to work with both static web technologies and modern frameworks like React and TypeScript.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## **Features**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Responsive Design**: Fully optimized for desktop, tablet, and mobile devices.
+- **Dynamic Content**: Projects and Interests pages are powered by JSON data, dynamically rendered with React components.
+- **Interactive Contact Form**: Includes form validation and integration with Getform.io for backend processing.
+- **Downloadable Resume**: Embedded resume with a fallback download link.
+- **Scalable Architecture**: Modular React components ensure easy scalability and maintenance.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## **Technologies Used**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **HTML5**: Semantic structure for content.
+- **CSS3**: Styling and responsive design using media queries and grid layouts.
+- **JavaScript**: Added interactivity and form validation.
+- **TypeScript**: Ensured type safety and better developer experience.
+- **React**: Modularized components for scalability.
+- **Getform.io**: Handled backend form submissions.
+- **GitHub**: Version control and project hosting.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## **Pages Overview**
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### **1. Home**
+- Welcome message with a grid-based navigation to other sections.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### **2. About**
+- Personal introduction and career background, including a professional portrait.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### **3. Resume**
+- Embedded PDF resume with a download link for offline access.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### **4. Projects**
+- Dynamically rendered project cards showcasing completed work and descriptions.
 
-## Learn More
+### **5. Interests**
+- Personal hobbies and interests displayed dynamically using JSON data.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### **6. Gallery**
+- Grid of categorized photos (e.g., Travel, Pets, Family, Friends) with hover effects.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### **7. Contact**
+- A contact form with client-side validation and server-side integration via Getform.io.
+
+---
+
+## **Setup Instructions**
+
+Follow these steps to set up the project locally:
+
+### **Prerequisites**
+- [Node.js](https://nodejs.org/) installed (LTS version recommended)
+- npm (comes with Node.js) or Yarn
+
+### **Steps**
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/dlittl02/portfolio-website.git
+   cd portfolio-website
+   ```
+
+2. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run the Development Server**:
+   ```bash
+   npm start
+   ```
+
+4. **Access the Website**:
+   - Open your browser and navigate to `http://localhost:3000`.
+
+5. **Build for Production**:
+   ```bash
+   npm run build
+   ```
+   - The production-ready files will be in the `build/` folder.
+
+---
+
